@@ -1,4 +1,4 @@
-package com.daniel.firebasedb;
+package com.daniel.TipCalc;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

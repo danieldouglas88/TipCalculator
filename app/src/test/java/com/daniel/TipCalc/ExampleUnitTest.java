@@ -1,4 +1,4 @@
-package com.daniel.firebasedb;
+package com.daniel.TipCalc;
 
 import org.junit.Test;
 
